@@ -1,7 +1,6 @@
 ﻿body {
-    /*font-family: 'Roboto','Brush Script MT', 'Tahoma','Arial';*/
     font-family: 'Roboto';
-    /*font-weight: 100;*/
+    background-image: url(pcb.png);
 }
 
 h1 {
